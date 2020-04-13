@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="npuzzle/src"/>
+	<classpathentry kind="src" path="tk_24puzzle/src"/>
+	<classpathentry kind="output" path="npuzzle/bin"/>
+</classpath>
